@@ -19,6 +19,10 @@ def feature_engineering(df) -> pd.DataFrame:
                     labels=['Child','Teen','Adult','Middle','Senior'])
     
 
+    df['PclassGroup'] = pd.cut(df['Pclass'], bins=[1,2,3],
+                    labels=['1st Class','2nd Class','3rd Class'])
+    
+
 
 
     return df

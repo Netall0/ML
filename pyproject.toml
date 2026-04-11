@@ -1,0 +1,13 @@
+[project]
+name = "ml-project"
+version = "0.1.0"
+description = "Titanic ML project"
+dependencies = [
+    "pandas",
+    "numpy",
+    "scikit-learn",
+    "jupyter"
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
