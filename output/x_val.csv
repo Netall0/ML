@@ -1,0 +1,90 @@
+PassengerId,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked,Has_Cabin,Fare_log,Sex_digit,FamilySize,IsAlone,Title,AgeBand,PclassGroup
+820,3,"Skoog, Master. Karl Thorsten",male,10.0,3,2,347088,27.9,Unknown,S,0,3.3638415951183864,0,6,0,Master,Child,3rd Class
+683,3,"Olsvigen, Mr. Thor Anderson",male,20.0,0,0,6563,9.225,Unknown,S,0,2.3248357019288655,0,1,1,Mr,Adult,3rd Class
+778,3,"Emanuel, Miss. Virginia Ethel",female,5.0,0,0,364516,12.475,Unknown,S,0,2.600836116795061,1,1,1,Miss,Child,3rd Class
+67,2,"Nye, Mrs. (Elizabeth Ramell)",female,29.0,0,0,C.A. 29395,10.5,F33,S,1,2.4423470353692043,1,1,1,Mrs,Adult,2nd Class
+255,3,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",female,41.0,0,2,370129,20.2125,Unknown,S,0,3.0545906305603445,1,3,0,Mrs,Middle,3rd Class
+175,1,"Smith, Mr. James Clinch",male,56.0,0,0,17764,30.6958,A7,C,1,3.4561841799918147,0,1,1,Mr,Middle,1st Class
+740,3,"Nankoff, Mr. Minko",male,28.0,0,0,349218,7.8958,Unknown,S,0,2.1855792552411137,0,1,1,Mr,Adult,3rd Class
+774,3,"Elias, Mr. Dibo",male,28.0,0,0,2674,7.225,Unknown,C,0,2.1071782966514356,0,1,1,Mr,Adult,3rd Class
+216,1,"Newell, Miss. Madeleine",female,31.0,1,0,35273,113.275,D36,C,1,4.738607824217808,1,2,0,Miss,Adult,1st Class
+605,1,"Homer, Mr. Harry (""Mr E Haven"")",male,35.0,0,0,111426,26.55,Unknown,C,0,3.3160025355989236,0,1,1,Mr,Adult,1st Class
+434,3,"Kallio, Mr. Nikolai Erland",male,17.0,0,0,STON/O 2. 3101274,7.125,Unknown,S,0,2.094945728215801,0,1,1,Mr,Teen,3rd Class
+585,3,"Paulner, Mr. Uscher",male,28.0,0,0,3411,8.7125,Unknown,C,0,2.2734137156937657,0,1,1,Mr,Adult,3rd Class
+351,3,"Odahl, Mr. Nils Martin",male,23.0,0,0,7267,9.225,Unknown,S,0,2.3248357019288655,0,1,1,Mr,Adult,3rd Class
+77,3,"Staneff, Mr. Ivan",male,28.0,0,0,349208,7.8958,Unknown,S,0,2.1855792552411137,0,1,1,Mr,Adult,3rd Class
+307,1,"Fleming, Miss. Margaret",female,28.0,0,0,17421,110.8833,Unknown,C,0,4.717456363787216,1,1,1,Miss,Adult,1st Class
+458,1,"Kenyon, Mrs. Frederick R (Marion)",female,28.0,1,0,17464,51.8625,D21,S,1,3.967694202798607,1,2,0,Mrs,Adult,1st Class
+447,2,"Mellinger, Miss. Madeleine Violet",female,13.0,0,1,250644,19.5,Unknown,S,0,3.0204248861443626,1,2,0,Miss,Teen,2nd Class
+836,1,"Compton, Miss. Sara Rebecca",female,39.0,1,1,PC 17756,83.1583,E49,C,1,4.432699549165613,1,3,0,Miss,Middle,1st Class
+236,3,"Harknett, Miss. Alice Phoebe",female,28.0,0,0,W./C. 6609,7.55,Unknown,S,0,2.145931282948669,1,1,1,Miss,Adult,3rd Class
+791,3,"Keane, Mr. Andrew ""Andy""",male,28.0,0,0,12460,7.75,Unknown,Q,0,2.169053700369523,0,1,1,Mr,Adult,3rd Class
+595,2,"Chapman, Mr. John Henry",male,37.0,1,0,SC/AH 29037,26.0,Unknown,S,0,3.295836866004329,0,2,0,Mr,Middle,2nd Class
+653,3,"Kalvik, Mr. Johannes Halvorsen",male,21.0,0,0,8475,8.4333,Unknown,S,0,2.2442459824059346,0,1,1,Mr,Adult,3rd Class
+427,2,"Clarke, Mrs. Charles V (Ada Maria Winfield)",female,28.0,1,0,2003,26.0,Unknown,S,0,3.295836866004329,1,2,0,Mrs,Adult,2nd Class
+85,2,"Ilett, Miss. Bertha",female,17.0,0,0,SO/C 14885,10.5,Unknown,S,0,2.4423470353692043,1,1,1,Miss,Teen,2nd Class
+293,2,"Levy, Mr. Rene Jacques",male,36.0,0,0,SC/Paris 2163,12.875,D,C,1,2.630088659632498,0,1,1,Mr,Middle,2nd Class
+530,2,"Hocking, Mr. Richard George",male,23.0,2,1,29104,11.5,Unknown,S,0,2.5257286443082556,0,4,0,Mr,Adult,2nd Class
+443,3,"Petterson, Mr. Johan Emil",male,25.0,1,0,347076,7.775,Unknown,S,0,2.1719067693519296,0,2,0,Mr,Adult,3rd Class
+803,1,"Carter, Master. William Thornton II",male,11.0,1,2,113760,120.0,B96 B98,S,1,4.795790545596741,0,4,0,Master,Child,1st Class
+291,1,"Barber, Miss. Ellen ""Nellie""",female,26.0,0,0,19877,78.85,Unknown,S,0,4.380149874661021,1,1,1,Miss,Adult,1st Class
+508,1,"Bradley, Mr. George (""George Arthur Brayton"")",male,28.0,0,0,111427,26.55,Unknown,S,0,3.3160025355989236,0,1,1,Mr,Adult,1st Class
+721,2,"Harper, Miss. Annie Jessie ""Nina""",female,6.0,0,1,248727,33.0,Unknown,S,0,3.5263605246161616,1,2,0,Miss,Child,2nd Class
+399,2,"Pain, Dr. Alfred",male,23.0,0,0,244278,10.5,Unknown,S,0,2.4423470353692043,0,1,1,Dr,Adult,2nd Class
+660,1,"Newell, Mr. Arthur Webster",male,58.0,0,2,35273,113.275,D48,C,1,4.738607824217808,0,3,0,Mr,Middle,1st Class
+621,3,"Yasbeck, Mr. Antoni",male,27.0,1,0,2659,14.4542,Unknown,C,0,2.737880811060884,0,2,0,Mr,Adult,3rd Class
+267,3,"Panula, Mr. Ernesti Arvid",male,16.0,4,1,3101295,39.6875,Unknown,S,0,3.705920919968788,0,6,0,Mr,Teen,3rd Class
+540,1,"Frolicher, Miss. Hedwig Margaritha",female,22.0,0,2,13568,49.5,B39,C,1,3.9219733362813143,1,3,0,Miss,Adult,1st Class
+205,3,"Cohen, Mr. Gurshon ""Gus""",male,18.0,0,0,A/5 3540,8.05,Unknown,S,0,2.2027647577118348,0,1,1,Mr,Teen,3rd Class
+68,3,"Crease, Mr. Ernest James",male,19.0,0,0,S.P. 3464,8.1583,Unknown,S,0,2.2146605719425225,0,1,1,Mr,Adult,3rd Class
+334,3,"Vander Planke, Mr. Leo Edmondus",male,16.0,2,0,345764,18.0,Unknown,S,0,2.9444389791664403,0,3,0,Mr,Teen,3rd Class
+670,1,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",female,28.0,1,0,19996,52.0,C126,S,1,3.970291913552122,1,2,0,Mrs,Adult,1st Class
+542,3,"Andersson, Miss. Ingeborg Constanzia",female,9.0,4,2,347082,31.275,Unknown,S,0,3.4742929367327062,1,7,0,Miss,Child,3rd Class
+779,3,"Kilgannon, Mr. Thomas J",male,28.0,0,0,36865,7.7375,Unknown,Q,0,2.1676241075599285,0,1,1,Mr,Adult,3rd Class
+658,3,"Bourke, Mrs. John (Catherine)",female,32.0,1,1,364849,15.5,Unknown,Q,0,2.803360380906535,1,3,0,Mrs,Adult,3rd Class
+809,2,"Meyer, Mr. August",male,39.0,0,0,248723,13.0,Unknown,S,0,2.6390573296152584,0,1,1,Mr,Middle,2nd Class
+251,3,"Reed, Mr. James George",male,28.0,0,0,362316,7.25,Unknown,S,0,2.1102132003465894,0,1,1,Mr,Adult,3rd Class
+209,3,"Carr, Miss. Helen ""Ellen""",female,16.0,0,0,367231,7.75,Unknown,Q,0,2.169053700369523,1,1,1,Miss,Teen,3rd Class
+245,3,"Attalah, Mr. Sleiman",male,30.0,0,0,2694,7.225,Unknown,C,0,2.1071782966514356,0,1,1,Mr,Adult,3rd Class
+45,3,"Devaney, Miss. Margaret Delia",female,19.0,0,0,330958,7.8792,Unknown,Q,0,2.1837114628556327,1,1,1,Miss,Adult,3rd Class
+110,3,"Moran, Miss. Bertha",female,28.0,1,0,371110,24.15,Unknown,Q,0,3.224857896545748,1,2,0,Miss,Adult,3rd Class
+66,3,"Moubarek, Master. Gerios",male,28.0,1,1,2661,15.2458,Unknown,C,0,2.7878344138303452,0,3,0,Master,Adult,3rd Class
+654,3,"O'Leary, Miss. Hanora ""Norah""",female,28.0,0,0,330919,7.8292,Unknown,Q,0,2.17806441028492,1,1,1,Miss,Adult,3rd Class
+890,1,"Behr, Mr. Karl Howell",male,26.0,0,0,111369,30.0,C148,C,1,3.4339872044851463,0,1,1,Mr,Adult,1st Class
+644,3,"Foo, Mr. Choong",male,28.0,0,0,1601,56.4958,Unknown,S,0,4.05171190165724,0,1,1,Mr,Adult,3rd Class
+600,1,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",male,49.0,1,0,PC 17485,56.9292,A20,C,1,4.0592215752427645,0,2,0,Sir,Middle,1st Class
+376,1,"Meyer, Mrs. Edgar Joseph (Leila Saks)",female,28.0,1,0,PC 17604,82.1708,Unknown,C,0,4.420896324687287,1,2,0,Mrs,Adult,1st Class
+6,3,"Moran, Mr. James",male,28.0,0,0,330877,8.4583,Unknown,Q,0,2.246892662898172,0,1,1,Mr,Adult,3rd Class
+169,1,"Baumann, Mr. John D",male,28.0,0,0,PC 17318,25.925,Unknown,S,0,3.2930552230424524,0,1,1,Mr,Adult,1st Class
+281,3,"Duane, Mr. Frank",male,65.0,0,0,336439,7.75,Unknown,Q,0,2.169053700369523,0,1,1,Mr,Senior,3rd Class
+463,1,"Gee, Mr. Arthur H",male,47.0,0,0,111320,38.5,E63,S,1,3.676300671907076,0,1,1,Mr,Middle,1st Class
+449,3,"Baclini, Miss. Marie Catherine",female,5.0,2,1,2666,19.2583,Unknown,C,0,3.0085645861193133,1,4,0,Miss,Child,3rd Class
+26,3,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",female,38.0,1,5,347077,31.3875,Unknown,S,0,3.4777725458882283,1,7,0,Mrs,Middle,3rd Class
+212,2,"Cameron, Miss. Clear Annie",female,35.0,0,0,F.C.C. 13528,21.0,Unknown,S,0,3.091042453358316,1,1,1,Miss,Adult,2nd Class
+211,3,"Ali, Mr. Ahmed",male,24.0,0,0,SOTON/O.Q. 3101311,7.05,Unknown,S,0,2.0856720914304723,0,1,1,Mr,Adult,3rd Class
+823,1,"Reuchlin, Jonkheer. John George",male,38.0,0,0,19972,0.0,Unknown,S,0,0.0,0,1,1,Jonkheer,Middle,1st Class
+448,1,"Seward, Mr. Frederic Kimber",male,34.0,0,0,113794,26.55,Unknown,S,0,3.3160025355989236,0,1,1,Mr,Adult,1st Class
+300,1,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",female,50.0,0,1,PC 17558,247.5208,B58 B60,C,1,5.515526544247129,1,2,0,Mrs,Middle,1st Class
+853,3,"Boulos, Miss. Nourelain",female,9.0,1,1,2678,15.2458,Unknown,C,0,2.7878344138303452,1,3,0,Miss,Child,3rd Class
+495,3,"Stanley, Mr. Edward Roland",male,21.0,0,0,A/4 45380,8.05,Unknown,S,0,2.2027647577118348,0,1,1,Mr,Adult,3rd Class
+199,3,"Madigan, Miss. Margaret ""Maggie""",female,28.0,0,0,370370,7.75,Unknown,Q,0,2.169053700369523,1,1,1,Miss,Adult,3rd Class
+83,3,"McDermott, Miss. Brigdet Delia",female,28.0,0,0,330932,7.7875,Unknown,Q,0,2.1733302571367834,1,1,1,Miss,Adult,3rd Class
+364,3,"Asim, Mr. Adola",male,35.0,0,0,SOTON/O.Q. 3101310,7.05,Unknown,S,0,2.0856720914304723,0,1,1,Mr,Adult,3rd Class
+440,2,"Kvillner, Mr. Johan Henrik Johannesson",male,31.0,0,0,C.A. 18723,10.5,Unknown,S,0,2.4423470353692043,0,1,1,Mr,Adult,2nd Class
+361,3,"Skoog, Mr. Wilhelm",male,40.0,1,4,347088,27.9,Unknown,S,0,3.3638415951183864,0,6,0,Mr,Middle,3rd Class
+669,3,"Cook, Mr. Jacob",male,43.0,0,0,A/5 3536,8.05,Unknown,S,0,2.2027647577118348,0,1,1,Mr,Middle,3rd Class
+360,3,"Mockler, Miss. Helen Mary ""Ellie""",female,28.0,0,0,330980,7.8792,Unknown,Q,0,2.1837114628556327,1,1,1,Miss,Adult,3rd Class
+515,3,"Coleff, Mr. Satio",male,24.0,0,0,349209,7.4958,Unknown,S,0,2.139571923732859,0,1,1,Mr,Adult,3rd Class
+466,3,"Goncalves, Mr. Manuel Estanslas",male,38.0,0,0,SOTON/O.Q. 3101306,7.05,Unknown,S,0,2.0856720914304723,0,1,1,Mr,Middle,3rd Class
+322,3,"Danoff, Mr. Yoto",male,27.0,0,0,349219,7.8958,Unknown,S,0,2.1855792552411137,0,1,1,Mr,Adult,3rd Class
+97,1,"Goldschmidt, Mr. George B",male,71.0,0,0,PC 17754,34.6542,A5,C,1,3.57386695198272,0,1,1,Mr,Senior,1st Class
+310,1,"Francatelli, Miss. Laura Mabel",female,30.0,0,0,PC 17485,56.9292,E36,C,1,4.0592215752427645,1,1,1,Miss,Adult,1st Class
+834,3,"Augustsson, Mr. Albert",male,23.0,0,0,347468,7.8542,Unknown,S,0,2.180891922715322,0,1,1,Mr,Adult,3rd Class
+219,1,"Bazzani, Miss. Albina",female,32.0,0,0,11813,76.2917,D15,C,1,4.347586575960343,1,1,1,Miss,Adult,1st Class
+11,3,"Sandstrom, Miss. Marguerite Rut",female,4.0,1,1,PP 9549,16.7,G6,S,1,2.8735646395797834,1,3,0,Miss,Child,3rd Class
+295,3,"Mineff, Mr. Ivan",male,24.0,0,0,349233,7.8958,Unknown,S,0,2.1855792552411137,0,1,1,Mr,Adult,3rd Class
+312,1,"Ryerson, Miss. Emily Borie",female,18.0,2,2,PC 17608,262.375,B57 B59 B63 B66,C,1,5.5735788721243535,1,5,0,Miss,Teen,1st Class
+671,2,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",female,40.0,1,1,29750,39.0,Unknown,S,0,3.6888794541139363,1,3,0,Mrs,Middle,2nd Class
+345,2,"Fox, Mr. Stanley Hubert",male,36.0,0,0,229236,13.0,Unknown,S,0,2.6390573296152584,0,1,1,Mr,Middle,2nd Class
+626,1,"Sutton, Mr. Frederick",male,61.0,0,0,36963,32.3208,D50,S,1,3.5061818266142577,0,1,1,Mr,Senior,1st Class
+292,1,"Bishop, Mrs. Dickinson H (Helen Walton)",female,19.0,1,0,11967,91.0792,B49,C,1,4.5226490762785785,1,2,0,Mrs,Adult,1st Class

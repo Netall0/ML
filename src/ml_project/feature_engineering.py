@@ -4,7 +4,7 @@ import os
 
 
 def feature_engineering(df) -> pd.DataFrame:
-    df.copy()
+    df = df.copy()
 
     #TODO  test cabin column 
 
